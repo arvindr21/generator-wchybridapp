@@ -46,6 +46,9 @@ var WchybridappGenerator = yeoman.generators.Base.extend({
     this.mkdir('platforms');
     this.mkdir('plugins');
     this.mkdir('www');
+    
+    this.copy('_package.json', 'package.json');
+    this.copy('_bower.json', 'bower.json');
 
     this.copy('hooks/README.md', 'hooks/README.md');
     this.directory('www/', 'www/');
