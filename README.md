@@ -2,7 +2,10 @@
 
 > Web Compoenets based Hybrid App generator for your Wordpress Blog
 
-__Hard dependency on  [JSON API](http://wordpress.org/plugins/json-api/)__
+* _Has a Hard dependency on  [JSON API](http://wordpress.org/plugins/json-api/)_
+* Tutorial : [Web Components, PhoneGap Build and Wordpress - A Hybrid App for your Blog](http://thejackalofjavascript.com/a-hybrid-app-for-your-blog)
+ 
+#### This project is a still in it's initial phase. Please follow the above tutorial for latest updates.
 
 ## Getting Started
 
@@ -35,7 +38,7 @@ Finally, initiate the generator:
 ```bash
 $ yo WCHybridApp
 ```
-Refer to http://thejackalofjavascript.com/a-hybrid-app-for-your-blog for more details.
+Refer to [Web Components, PhoneGap Build and Wordpress - A Hybrid App for your Blog](http://thejackalofjavascript.com/a-hybrid-app-for-your-blog) for more details.
 
 ### Getting To Know Yeoman
 
