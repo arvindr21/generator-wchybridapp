@@ -1,0 +1,31 @@
+{
+  "name": "<%= _.camelize(appname) %>",
+  "version": "0.0.1",
+  "authors": [
+    " <%= _.humanize(appname) %> Team <admin@<%= _.camelize(appname) %>.com>"
+  ],
+  "description": " <%= _.humanize(appname) %>",
+  "keywords": [
+    "Blog",
+    "Hybrid",
+    "App"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "platform": "^0.3.3"
+  },
+  "dependencies": {
+    "polymer": "~0.3.3",
+    "platform": "~1.2.0",
+    "core-ajax": "polymer/core-ajax#~0.3.3",
+    "core-header-panel": "polymer/core-header-panel#~0.3.3",
+    "core-toolbar": "polymer/core-toolbar#~0.3.3"
+  }
+}
