@@ -37,7 +37,7 @@ $ npm install -g generator-wchybridapp
 Finally, initiate the generator:
 
 ```bash
-$ yo WCHybridApp
+$ yo wchybridapp
 ```
 Refer to [Web Components, PhoneGap Build and Wordpress - A Hybrid App for your Blog](http://thejackalofjavascript.com/a-hybrid-app-for-your-blog) for more details.
 
