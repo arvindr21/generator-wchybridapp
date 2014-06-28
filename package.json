@@ -1,7 +1,7 @@
 {
   "name": "generator-wchybridapp",
   "version": "0.0.1",
-  "description": "Web Compoenets based Hybrid App generator for your Wordpress Blog",
+  "description": "Web Components based Hybrid App generator for your Wordpress Blog",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "arvindr21/generator-wchybridapp",

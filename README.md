@@ -1,11 +1,12 @@
 # generator-WCHybridApp [![Build Status](https://secure.travis-ci.org/arvindr21/generator-wchybridapp.png?branch=master)](https://travis-ci.org/arvindr21/generator-wchybridapp)
 
-> Web Compoenets based Hybrid App generator for your Wordpress Blog
+> Web Components based Hybrid App generator for your Wordpress Blog
 
 * _Has a Hard dependency on  [JSON API](http://wordpress.org/plugins/json-api/)_
 * Tutorial : [Web Components, PhoneGap Build and Wordpress - A Hybrid App for your Blog](http://thejackalofjavascript.com/a-hybrid-app-for-your-blog)
  
 #### This project is a still in it's initial phase. Please follow the above tutorial for latest updates.
+
 
 ## Getting Started
 

@@ -21,7 +21,7 @@ var WchybridappGenerator = yeoman.generators.Base.extend({
     var done = this.async();
 
     // Have Yeoman greet the user.
-    this.log(yosay('Welcome to the marvelous Web Compoenets based Hybrid App generator for your Wordpress Blog!'));
+    this.log(yosay('Welcome to the marvelous Web Components based Hybrid App generator for your Wordpress Blog!'));
 
     var prompts = [{
       name: 'appname',
