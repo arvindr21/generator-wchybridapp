@@ -1,4 +1,4 @@
-# generator-WCHybridApp [![Build Status](https://secure.travis-ci.org/arvindr21/generator-wchybridapp.png?branch=master)](https://travis-ci.org/arvindr21/generator-wchybridapp)
+# generator-WCHybridApp
 
 > Web Components based Hybrid App generator for your Wordpress Blog
 
