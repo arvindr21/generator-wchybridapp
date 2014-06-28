@@ -1,4 +1,4 @@
-# generator-WCHybridApp
+# generator-wchybridapp
 
 > Web Components based Hybrid App generator for your Wordpress Blog
 
